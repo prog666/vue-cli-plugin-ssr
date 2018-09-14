@@ -1,5 +1,5 @@
 {
-  "name": "@akryum/vue-cli-plugin-ssr",
+  "name": "@prog666/vue-cli-plugin-ssr",
   "version": "0.2.3",
   "description": "Turn your app into an isomorphic SSR app!",
   "author": "Guillaume Chau",
